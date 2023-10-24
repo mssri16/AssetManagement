@@ -11,6 +11,11 @@
           "trackingId": 2,
           "value": 110000,
           "valuationDate": "2023-10-25"
+        },
+        {
+          "trackingId": 1,
+          "value": 100000,
+          "valuationDate": "2023-10-25"
         }
       ]
     }
