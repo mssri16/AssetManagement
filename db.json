@@ -117,6 +117,478 @@
           "valuationDate": "2023-11-03"
         }
       ]
+    },
+    {
+      "assetId": 3,
+      "assetName": "IJKL",
+      "location": "Canada",
+      "createdDate": "2023-10-26",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 135000,
+          "valuationDate": "2023-10-26"
+        },
+        {
+          "trackingId": 2,
+          "value": 140000,
+          "valuationDate": "2023-10-27"
+        },
+        {
+          "trackingId": 3,
+          "value": 138000,
+          "valuationDate": "2023-10-28"
+        },
+        {
+          "trackingId": 4,
+          "value": 145000,
+          "valuationDate": "2023-10-29"
+        },
+        {
+          "trackingId": 5,
+          "value": 150000,
+          "valuationDate": "2023-10-30"
+        },
+        {
+          "trackingId": 6,
+          "value": 155000,
+          "valuationDate": "2023-10-31"
+        },
+        {
+          "trackingId": 7,
+          "value": 160000,
+          "valuationDate": "2023-11-01"
+        },
+        {
+          "trackingId": 8,
+          "value": 152000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 9,
+          "value": 148000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 10,
+          "value": 145000,
+          "valuationDate": "2023-11-04"
+        }
+      ]
+    },
+    {
+      "assetId": 4,
+      "assetName": "MNOP",
+      "location": "Australia",
+      "createdDate": "2023-10-27",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 90000,
+          "valuationDate": "2023-10-27"
+        },
+        {
+          "trackingId": 2,
+          "value": 88000,
+          "valuationDate": "2023-10-28"
+        },
+        {
+          "trackingId": 3,
+          "value": 92000,
+          "valuationDate": "2023-10-29"
+        },
+        {
+          "trackingId": 4,
+          "value": 95000,
+          "valuationDate": "2023-10-30"
+        },
+        {
+          "trackingId": 5,
+          "value": 97000,
+          "valuationDate": "2023-10-31"
+        },
+        {
+          "trackingId": 6,
+          "value": 93000,
+          "valuationDate": "2023-11-01"
+        },
+        {
+          "trackingId": 7,
+          "value": 92000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 8,
+          "value": 89000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 9,
+          "value": 91000,
+          "valuationDate": "2023-11-04"
+        },
+        {
+          "trackingId": 10,
+          "value": 89000,
+          "valuationDate": "2023-11-05"
+        }
+      ]
+    },
+    {
+      "assetId": 5,
+      "assetName": "QRST",
+      "location": "UK",
+      "createdDate": "2023-10-28",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 75000,
+          "valuationDate": "2023-10-28"
+        },
+        {
+          "trackingId": 2,
+          "value": 76000,
+          "valuationDate": "2023-10-29"
+        },
+        {
+          "trackingId": 3,
+          "value": 77000,
+          "valuationDate": "2023-10-30"
+        },
+        {
+          "trackingId": 4,
+          "value": 78000,
+          "valuationDate": "2023-10-31"
+        },
+        {
+          "trackingId": 5,
+          "value": 79000,
+          "valuationDate": "2023-11-01"
+        },
+        {
+          "trackingId": 6,
+          "value": 80000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 7,
+          "value": 81000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 8,
+          "value": 82000,
+          "valuationDate": "2023-11-04"
+        },
+        {
+          "trackingId": 9,
+          "value": 83000,
+          "valuationDate": "2023-11-05"
+        },
+        {
+          "trackingId": 10,
+          "value": 84000,
+          "valuationDate": "2023-11-06"
+        }
+      ]
+    },
+    {
+      "assetId": 6,
+      "assetName": "UVWX",
+      "location": "France",
+      "createdDate": "2023-10-29",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 92000,
+          "valuationDate": "2023-10-29"
+        },
+        {
+          "trackingId": 2,
+          "value": 91000,
+          "valuationDate": "2023-10-30"
+        },
+        {
+          "trackingId": 3,
+          "value": 93000,
+          "valuationDate": "2023-10-31"
+        },
+        {
+          "trackingId": 4,
+          "value": 94000,
+          "valuationDate": "2023-11-01"
+        },
+        {
+          "trackingId": 5,
+          "value": 95000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 6,
+          "value": 96000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 7,
+          "value": 97000,
+          "valuationDate": "2023-11-04"
+        },
+        {
+          "trackingId": 8,
+          "value": 98000,
+          "valuationDate": "2023-11-05"
+        },
+        {
+          "trackingId": 9,
+          "value": 99000,
+          "valuationDate": "2023-11-06"
+        },
+        {
+          "trackingId": 10,
+          "value": 100000,
+          "valuationDate": "2023-11-07"
+        }
+      ]
+    },
+    {
+      "assetId": 7,
+      "assetName": "XYZ",
+      "location": "Germany",
+      "createdDate": "2023-10-30",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 105000,
+          "valuationDate": "2023-10-30"
+        },
+        {
+          "trackingId": 2,
+          "value": 104000,
+          "valuationDate": "2023-10-31"
+        },
+        {
+          "trackingId": 3,
+          "value": 103000,
+          "valuationDate": "2023-11-01"
+        },
+        {
+          "trackingId": 4,
+          "value": 102000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 5,
+          "value": 101000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 6,
+          "value": 100000,
+          "valuationDate": "2023-11-04"
+        },
+        {
+          "trackingId": 7,
+          "value": 99000,
+          "valuationDate": "2023-11-05"
+        },
+        {
+          "trackingId": 8,
+          "value": 98000,
+          "valuationDate": "2023-11-06"
+        },
+        {
+          "trackingId": 9,
+          "value": 97000,
+          "valuationDate": "2023-11-07"
+        },
+        {
+          "trackingId": 10,
+          "value": 96000,
+          "valuationDate": "2023-11-08"
+        }
+      ]
+    },
+    {
+      "assetId": 8,
+      "assetName": "PQRS",
+      "location": "Brazil",
+      "createdDate": "2023-10-31",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 110000,
+          "valuationDate": "2023-10-31"
+        },
+        {
+          "trackingId": 2,
+          "value": 111000,
+          "valuationDate": "2023-11-01"
+        },
+        {
+          "trackingId": 3,
+          "value": 112000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 4,
+          "value": 113000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 5,
+          "value": 114000,
+          "valuationDate": "2023-11-04"
+        },
+        {
+          "trackingId": 6,
+          "value": 115000,
+          "valuationDate": "2023-11-05"
+        },
+        {
+          "trackingId": 7,
+          "value": 116000,
+          "valuationDate": "2023-11-06"
+        },
+        {
+          "trackingId": 8,
+          "value": 117000,
+          "valuationDate": "2023-11-07"
+        },
+        {
+          "trackingId": 9,
+          "value": 118000,
+          "valuationDate": "2023-11-08"
+        },
+        {
+          "trackingId": 10,
+          "value": 119000,
+          "valuationDate": "2023-11-09"
+        }
+      ]
+    },
+    {
+      "assetId": 9,
+      "assetName": "LMNO",
+      "location": "Spain",
+      "createdDate": "2023-11-01",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 95000,
+          "valuationDate": "2023-11-01"
+        },
+        {
+          "trackingId": 2,
+          "value": 96000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 3,
+          "value": 97000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 4,
+          "value": 98000,
+          "valuationDate": "2023-11-04"
+        },
+        {
+          "trackingId": 5,
+          "value": 99000,
+          "valuationDate": "2023-11-05"
+        },
+        {
+          "trackingId": 6,
+          "value": 100000,
+          "valuationDate": "2023-11-06"
+        },
+        {
+          "trackingId": 7,
+          "value": 101000,
+          "valuationDate": "2023-11-07"
+        },
+        {
+          "trackingId": 8,
+          "value": 102000,
+          "valuationDate": "2023-11-08"
+        },
+        {
+          "trackingId": 9,
+          "value": 103000,
+          "valuationDate": "2023-11-09"
+        },
+        {
+          "trackingId": 10,
+          "value": 104000,
+          "valuationDate": "2023-11-10"
+        }
+      ]
+    },
+    {
+      "assetId": 10,
+      "assetName": "WXYZ",
+      "location": "Japan",
+      "createdDate": "2023-11-02",
+      "isActive": 1,
+      "assetAssessment": [
+        {
+          "trackingId": 1,
+          "value": 80000,
+          "valuationDate": "2023-11-02"
+        },
+        {
+          "trackingId": 2,
+          "value": 81000,
+          "valuationDate": "2023-11-03"
+        },
+        {
+          "trackingId": 3,
+          "value": 82000,
+          "valuationDate": "2023-11-04"
+        },
+        {
+          "trackingId": 4,
+          "value": 83000,
+          "valuationDate": "2023-11-05"
+        },
+        {
+          "trackingId": 5,
+          "value": 84000,
+          "valuationDate": "2023-11-06"
+        },
+        {
+          "trackingId": 6,
+          "value": 85000,
+          "valuationDate": "2023-11-07"
+        },
+        {
+          "trackingId": 7,
+          "value": 86000,
+          "valuationDate": "2023-11-08"
+        },
+        {
+          "trackingId": 8,
+          "value": 87000,
+          "valuationDate": "2023-11-09"
+        },
+        {
+          "trackingId": 9,
+          "value": 88000,
+          "valuationDate": "2023-11-10"
+        },
+        {
+          "trackingId": 10,
+          "value": 89000,
+          "valuationDate": "2023-11-11"
+        }
+      ]
     }
   ],
   "profile": {
