@@ -18,25 +18,6 @@
           "valuationDate": "25-10-2023"
         }
       ]
-    },
-    {
-      "assetId": 2,
-      "assetName": "EFG",
-      "location": "Singapore",
-      "createdDate": "24-10-2023", 
-      "isActive": 1,
-      "assetAssessment": [
-        {
-          "trackingId": 3,
-          "value": 100000,
-          "valuationDate": "24-10-2023"
-        },
-        {
-          "trackingId": 4,
-          "value": 110000,
-          "valuationDate": "25-10-2023"
-        }
-      ]
     }
   ],
   "profile": {
