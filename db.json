@@ -1,20 +1,20 @@
 {
   "posts": [
     {
-      "assetId": 1,
-      "assetName": "ABCD",
-      "location": "India",
-      "createdDate": "24-10-2023", 
-      "isActive": 1,
-      "assetAssessment": [
-        {
-          "trackingId": 1,
-          "value": 100000,
-          "valuationDate": "24-10-2023"
-        }
-      ]
+        "assetId": 1,
+        "assetName": "ABCD",
+        "location": "India",
+        "createdDate": "24-10-2023",
+        "isActive": 1,
+        "assetAssessment": [
+            {
+                "trackingId": 1,
+                "value": 100000,
+                "valuationDate": "24-10-2023"
+            }
+        ]
     }
-  ],
+],
   "profile": {
     "name": "asset"
   }
