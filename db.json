@@ -8,11 +8,6 @@
       "isActive": 1,
       "assetAssessment": [
         {
-          "trackingId": 1,
-          "value": 100000,
-          "valuationDate": "2023-10-24"
-        },
-        {
           "trackingId": 2,
           "value": 110000,
           "valuationDate": "2023-10-25"
