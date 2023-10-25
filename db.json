@@ -73,20 +73,20 @@
       "assetId": 2,
       "assetName": "EFGH",
       "location": "USA",
-      "createdDate": "2023-10-25",
+      "createdDate": "2023-10-23",
       "isActive": 1,
       "assetAssessment": [
         {
           "trackingId": 11,
           "assetId": 2,
           "value": 120000,
-          "valuationDate": "2023-10-25"
+          "valuationDate": "2023-10-24"
         },
         {
           "trackingId": 12,
           "assetId": 2,
           "value": 125000,
-          "valuationDate": "2023-10-26"
+          "valuationDate": "2023-10-25"
         },
         {
           "trackingId": 13,
@@ -142,20 +142,20 @@
       "assetId": 3,
       "assetName": "IJKL",
       "location": "Canada",
-      "createdDate": "2023-10-26",
+      "createdDate": "2023-10-22",
       "isActive": 1,
       "assetAssessment": [
         {
           "trackingId": 21,
           "assetId": 3,
-          "value": 135000,
-          "valuationDate": "2023-10-26"
+          "value": 120000,
+          "valuationDate": "2023-10-24"
         },
         {
           "trackingId": 22,
           "assetId": 3,
-          "value": 140000,
-          "valuationDate": "2023-10-27"
+          "value": 160000,
+          "valuationDate": "2023-10-25"
         },
         {
           "trackingId": 23,
