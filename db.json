@@ -4,68 +4,68 @@
       "assetId": 1,
       "assetName": "ABCD",
       "location": "India",
-      "createdDate": "2023-10-24",
+      "createdDate": "2023-10-10",
       "isActive": 1,
       "assetAssessment": [
         {
           "trackingId": 1,
           "assetId": 1,
           "value": 100000,
-          "valuationDate": "2023-10-24"
+          "valuationDate": "2023-10-17"
         },
         {
           "trackingId": 2,
           "assetId": 1,
           "value": 110000,
-          "valuationDate": "2023-10-25"
+          "valuationDate": "2023-10-18"
         },
         {
           "trackingId": 3,
           "assetId": 1,
           "value": 105000,
-          "valuationDate": "2023-10-26"
+          "valuationDate": "2023-10-19"
         },
         {
           "trackingId": 4,
           "assetId": 1,
           "value": 98000,
-          "valuationDate": "2023-10-27"
+          "valuationDate": "2023-10-20"
         },
         {
           "trackingId": 5,
           "assetId": 1,
           "value": 102000,
-          "valuationDate": "2023-10-28"
+          "valuationDate": "2023-10-21"
         },
         {
           "trackingId": 6,
           "assetId": 1,
           "value": 115000,
-          "valuationDate": "2023-10-29"
+          "valuationDate": "2023-10-22"
         },
         {
           "trackingId": 7,
           "assetId": 1,
           "value": 99000,
-          "valuationDate": "2023-10-30"
+          "valuationDate": "2023-10-23"
         },
         {
           "trackingId": 8,
           "assetId": 1,
           "value": 108000,
-          "valuationDate": "2023-10-31"
+          "valuationDate": "2023-10-24"
         },
         {
           "trackingId": 9,
           "assetId": 1,
           "value": 112000,
-          "valuationDate": "2023-11-01"
+          "valuationDate": "2023-10-25"
         },
         {
           "trackingId": 10,
           "assetId": 1,
-          "value": 97000,
-          "valuationDate": "2023-11-02"
+          "value": 137000,
+          "valuationDate": "2023-10-26"
         }
       ]
     },
@@ -73,68 +73,68 @@
       "assetId": 2,
       "assetName": "EFGH",
       "location": "USA",
-      "createdDate": "2023-10-23",
+      "createdDate": "2023-10-10",
       "isActive": 1,
       "assetAssessment": [
         {
           "trackingId": 11,
           "assetId": 2,
           "value": 120000,
-          "valuationDate": "2023-10-24"
+          "valuationDate": "2023-10-17"
         },
         {
           "trackingId": 12,
           "assetId": 2,
           "value": 125000,
-          "valuationDate": "2023-10-25"
+          "valuationDate": "2023-10-18"
         },
         {
           "trackingId": 13,
           "assetId": 2,
-          "value": 118000,
-          "valuationDate": "2023-10-27"
+          "value": 140000,
+          "valuationDate": "2023-10-19"
         },
         {
           "trackingId": 14,
           "assetId": 2,
           "value": 122000,
-          "valuationDate": "2023-10-28"
+          "valuationDate": "2023-10-20"
         },
         {
           "trackingId": 15,
           "assetId": 2,
           "value": 130000,
-          "valuationDate": "2023-10-29"
+          "valuationDate": "2023-10-21"
         },
         {
           "trackingId": 16,
           "assetId": 2,
           "value": 123000,
-          "valuationDate": "2023-10-30"
+          "valuationDate": "2023-10-22"
         },
         {
           "trackingId": 17,
           "assetId": 2,
           "value": 128000,
-          "valuationDate": "2023-10-31"
+          "valuationDate": "2023-10-23"
         },
         {
           "trackingId": 18,
           "assetId": 2,
           "value": 127000,
-          "valuationDate": "2023-11-01"
+          "valuationDate": "2023-10-24"
         },
         {
           "trackingId": 19,
           "assetId": 2,
           "value": 131000,
-          "valuationDate": "2023-11-02"
+          "valuationDate": "2023-10-25"
         },
         {
           "trackingId": 20,
           "assetId": 2,
           "value": 129000,
-          "valuationDate": "2023-11-03"
+          "valuationDate": "2023-10-26"
         }
       ]
     },
@@ -142,68 +142,68 @@
       "assetId": 3,
       "assetName": "IJKL",
       "location": "Canada",
-      "createdDate": "2023-10-22",
+      "createdDate": "2023-10-12",
       "isActive": 1,
       "assetAssessment": [
         {
           "trackingId": 21,
           "assetId": 3,
           "value": 120000,
-          "valuationDate": "2023-10-24"
+          "valuationDate": "2023-10-17"
         },
         {
           "trackingId": 22,
           "assetId": 3,
           "value": 160000,
-          "valuationDate": "2023-10-25"
+          "valuationDate": "2023-10-18"
         },
         {
           "trackingId": 23,
           "assetId": 3,
           "value": 138000,
-          "valuationDate": "2023-10-28"
+          "valuationDate": "2023-10-19"
         },
         {
           "trackingId": 24,
           "assetId": 3,
           "value": 145000,
-          "valuationDate": "2023-10-29"
+          "valuationDate": "2023-10-20"
         },
         {
           "trackingId": 25,
           "assetId": 3,
           "value": 150000,
-          "valuationDate": "2023-10-30"
+          "valuationDate": "2023-10-21"
         },
         {
           "trackingId": 26,
           "assetId": 3,
           "value": 155000,
-          "valuationDate": "2023-10-31"
+          "valuationDate": "2023-10-22"
         },
         {
           "trackingId": 27,
           "assetId": 3,
           "value": 160000,
-          "valuationDate": "2023-11-01"
+          "valuationDate": "2023-10-23"
         },
         {
           "trackingId": 28,
           "assetId": 3,
           "value": 152000,
-          "valuationDate": "2023-11-02"
+          "valuationDate": "2023-10-24"
         },
         {
           "trackingId": 29,
           "assetId": 3,
           "value": 148000,
-          "valuationDate": "2023-11-03"
+          "valuationDate": "2023-10-25"
         },
         {
           "trackingId": 30,
           "assetId": 3,
-          "value": 145000,
-          "valuationDate": "2023-11-04"
+          "value": 175000,
+          "valuationDate": "2023-10-26"
         }
       ]
     }
